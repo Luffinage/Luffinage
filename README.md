@@ -1,6 +1,6 @@
 <h1 align="center">Привет, меня зовут Александр!<h1>
 <p align="center">
- <img width="600" src="/img/github-snake.svg" alt="snake"/>
+ <img width="600" src="/github-snake.svg" alt="snake"/>
 </p>
 
 

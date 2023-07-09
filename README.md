@@ -21,16 +21,18 @@
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
     <a href="https://t.me/Luffinage" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
     </a>
     <a href="https://www.facebook.com/Luffinage/" target="_blank">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/240px-Facebook_f_logo_%282019%29.svg.png" width="40" height="40" alt="facebook" />
     </a>
-    <a href="hhttps://www.instagram.com/luffinage/" target="_blank">
+    <a href="https://www.instagram.com/luffinage/" target="_blank">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="40" height="40" alt="instagram" />
     </a>
+    <a href="https://discordapp.com/users/luffinage" target="_blank">
+      <img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" width="40" height="40" alt="discord" />
+    </a>
   </div>
-
 ---
 
 ### 💻 Технологии:

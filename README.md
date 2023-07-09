@@ -1,6 +1,6 @@
 <h1 align="center">Привет, меня зовут Александр!<h1>
 <p align="center">
- <img width="600" src="/github-snake.svg" alt="snake"/>
+ <img width="600" src="/img/github-snake.svg" alt="snake"/>
 </p>
 
 
@@ -18,7 +18,7 @@
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/luffinage/" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
+      <img src="icons/social/linkedin.svg" width="40" height="40" alt="linkedin" />
     </a>
     <a href="https://t.me/Luffinage" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />

@@ -16,7 +16,7 @@
 ---
 
 
- <h2 align="center">🌐 Socials:</h2>
+ <h2 align="center">🌐 Socials</h2>
 
   <div id="badges" align="center">
     <a href="https://www.linkedin.com/in/luffinage/" target="_blank">
@@ -38,7 +38,7 @@
 
 ---
 
- <h2 align="center">💻 Tech Stack </h2>
+ <h2 align="center">💻 Tech Stack</h2>
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
@@ -56,7 +56,7 @@
 </div>
 
 ---
-
+<h2 align="center"> ⚙️ GitHub Stats:</h2>
 <table>
   <tr>
     <td>

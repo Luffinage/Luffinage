@@ -38,9 +38,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Luffinage&icon=5&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<!--
+
  <h2 align="center">🤝 Социальные сети:</h2>
 
   <div id="badges" align="center">

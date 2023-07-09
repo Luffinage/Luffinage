@@ -33,6 +33,7 @@
       <img src="https://upload.wikimedia.org/wikipedia/tr/thumb/5/57/Discord_logo_old.png/1024px-Discord_logo_old.png" width="40" height="40" alt="discord" />
     </a>&nbsp;&nbsp;&nbsp;
   </div>
+
 ---
 
  <h2 align="center">💻 Технологии:</h2>
@@ -78,7 +79,7 @@
   </tr>
 </table>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=luffinage)
+<div align="center"> ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=luffinage)</div>
 <!--
 **Luffinage/Luffinage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

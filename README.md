@@ -57,10 +57,16 @@
 
 ---
 
-<div display="flex">
+<tible>
+ <tr>
+  <br>
 <img align="left" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Luffinage&theme=algolia&hide_border=false" alt="webDev's Github stats" />
-<img align="right" height="195px" width="50%" alt="webDev's Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luffinage&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</div>
+ </br>
+ <br>
+  <img align="right" height="195px" width="50%" alt="webDev's Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luffinage&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</br>  
+</tr>
+</tible>
 
 ---
 

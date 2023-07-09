@@ -41,7 +41,7 @@
 
  </tr>
 </table>
-
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Luffinage&theme=algolia&hide_border=false" alt="webDev's Github stats" />
 <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luffinage&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 
 

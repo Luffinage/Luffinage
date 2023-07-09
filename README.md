@@ -79,7 +79,7 @@
   </tr>
 </table>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=luffinage)
+<center> ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=luffinage) </center>center>
 <!--
 **Luffinage/Luffinage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

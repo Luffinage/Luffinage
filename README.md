@@ -30,7 +30,7 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="40" height="40" alt="instagram" />
     </a>
     <a href="https://discordapp.com/users/luffinage" target="_blank">
-      <img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" width="40" height="40" alt="discord" />
+      <img src="https://upload.wikimedia.org/wikipedia/tr/thumb/5/57/Discord_logo_old.png/1024px-Discord_logo_old.png" width="40" height="40" alt="discord" />
     </a>
   </div>
 ---

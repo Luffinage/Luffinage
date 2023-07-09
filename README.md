@@ -67,7 +67,7 @@
 
 <h3 align="center" width: 100%> ✍️ Random Dev Quote </h3>
 
-<img width="100%" height="300px" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="#">
+<img width="100%" height="900px" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="#">
 
 
 ---

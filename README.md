@@ -23,6 +23,12 @@
     <a href="https://t.me/Luffinage" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
     </a>
+    <a href="https://www.facebook.com/Luffinage/" target="_blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/240px-Facebook_f_logo_%282019%29.svg.png" width="40" height="40" alt="facebook" />
+    </a>
+    <a href="https://t.me/Luffinage" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
+    </a>
   </div>
 
 ---

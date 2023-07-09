@@ -57,18 +57,18 @@
 
 ---
 
-
+<div>
 <img align="left" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Luffinage&theme=algolia&hide_border=false" alt="webDev's Github stats" />
 <img align="right" height="195px" width="50%" alt="webDev's Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luffinage&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-
+</div>
 
 ---
 
-
+<div>
 <h3 align="center" width: 100%> ✍️ Random Dev Quote </h3>
 
 <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="#">
-
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Luffinage&icon=5&color=1)](https://visitcount.itsvg.in)

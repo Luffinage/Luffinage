@@ -27,7 +27,7 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/240px-Facebook_f_logo_%282019%29.svg.png" width="40" height="40" alt="facebook" />
     </a>
     <a href="hhttps://www.instagram.com/luffinage/" target="_blank">
-      <img src="https://store-images.s-microsoft.com/image/apps.31997.13510798887167234.6cd52261-a276-49cf-9b6b-9ef8491fb799.30e70ce4-33c5-43d6-9af1-491fe4679377 width="40" height="40" alt="instagram" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="40" height="40" alt="instagram" />
     </a>
   </div>
 

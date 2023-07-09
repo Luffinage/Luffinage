@@ -80,7 +80,7 @@
 
 <h3 align="center"> ✍️ Random Dev Quote </h3>
 
-<img display="block" align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="#">
+<img display="inline-block" align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="#">
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Luffinage&icon=5&color=1)](https://visitcount.itsvg.in)

@@ -63,7 +63,7 @@
       <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Luffinage&theme=algolia&hide_border=false" alt="webDev's Github stats" />
     </td>
     <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FilimonovAlexey&layout=compact&theme=vision-friendly-dark" />
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luffinage&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
     </td>
   </tr>
 </table>

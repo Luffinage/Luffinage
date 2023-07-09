@@ -71,7 +71,7 @@
 ---
 
 <div>
-<h3> ✍️ Random Dev Quote </h3>
+<h3 align="center"> ✍️ Random Dev Quote </h3>
 
 <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="#">
 </div>

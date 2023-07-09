@@ -33,10 +33,11 @@
    
    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Luffinage&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
   </td>
+<!-- 
   <td>
-   
 ![](https://github-readme-stats.vercel.app/api?username=Luffinage&theme=algolia&hide_border=false&include_all_commits=true&count_private=true)
   </td>
+--!>
 
  </tr>
 </table>

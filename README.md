@@ -65,9 +65,9 @@
 ---
 
 
-<h3 width: 100%> ✍️ Random Dev Quote </h3>
+<h3 align="center" width: 100%> ✍️ Random Dev Quote </h3>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<img width="100%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="#">
 
 
 ---

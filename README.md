@@ -64,8 +64,8 @@
 
 
 <h2 align="center"> ⚙️ GitHub Stats</h2>
- <div justify-content="center">
-        <img margin="auto" align="center" height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luffinage&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+ <div align="center">
+        <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luffinage&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
  </div>
 ---
 

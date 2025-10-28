@@ -70,8 +70,9 @@
 ---
 
 <h3 align="center"> ✍️ Random Dev Quote </h3>
-
+ <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="#">
+ </div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Luffinage&icon=5&color=1)](https://visitcount.itsvg.in)

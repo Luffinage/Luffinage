@@ -34,7 +34,7 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="40" height="40" alt="instagram" />
     </a>&nbsp;&nbsp;&nbsp;
     <a href="https://discordapp.com/users/luffinage" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/tr/thumb/5/57/Discord_logo_old.png/1024px-Discord_logo_old.png" width="40" height="40" alt="discord" />
+      <img src="https://e1.pngegg.com/pngimages/373/977/png-clipart-discord-for-macos-white-and-blue-logo-art-thumbnail.png" width="40" height="40" alt="discord" />
     </a>&nbsp;&nbsp;&nbsp;
   </div>
 
